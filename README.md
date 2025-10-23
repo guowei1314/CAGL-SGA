@@ -1,6 +1,6 @@
-# PC2AF
-Learning to Match: A Permutation-Corrected Anchor Alignment Framework for Multi-View Clustering.
-This code is submitted to TCSVT 2025.
+# CAGL-SGA
+Collaborative Anchor Graph Learning with Similarity-Guided Alignment for Multi-View Clustering
+This code is submitted to TMM 2025.
 
 
 Experimental Setup:
