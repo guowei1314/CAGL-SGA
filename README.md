@@ -1,5 +1,5 @@
 # CAGL-SGA
-Collaborative Anchor Graph Learning with Similarity-Guided Alignment for Multi-View Clustering
+Collaborative Anchor Graph Learning with Similarity-Guided Alignment for Multi-View Clustering.
 This paper is Accepted in TMM 2026.
 
 Experimental Setup:
