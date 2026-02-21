@@ -1,7 +1,6 @@
 # CAGL-SGA
 Collaborative Anchor Graph Learning with Similarity-Guided Alignment for Multi-View Clustering
-This code is submitted to TMM 2025.
-
+This paper is Accepted in TMM 2026.
 
 Experimental Setup:
 - OS: Ubuntu 20.04.6 LTS
@@ -15,6 +14,5 @@ Experimental Setup:
 
 Notes:
 1. Results may vary under different hardware/software configurations.
-2. PC2AF.py has been encrypted as PC2AF.pyc. The code is ready to run (compatible with other datasets) and will be decrypted upon paper acceptance.
-3. For any issues, please contact: guowei123@email.swu.edu.cn
+2. For any issues, please contact: guowei123@email.swu.edu.cn
 
