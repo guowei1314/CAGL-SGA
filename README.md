@@ -14,5 +14,5 @@ Experimental Setup:
 
 Notes:
 1. Results may vary under different hardware/software configurations.
-2. For any issues, please contact: guowei123@email.swu.edu.cn
+2. For any issues, please contact: guowei123@email.swu.edu.cn.
 
